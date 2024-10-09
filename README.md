@@ -11,3 +11,6 @@ We also created a branch for the design, creating the assets folder and a style.
 But befeore we finish the merge, a conflict appears, so we have to resolve that.
 
 Comparing the code (content and design), we opted by design one and finally merge into the main branch.
+
+Next Steps:
+- Learn about how to contribute and make PR;
